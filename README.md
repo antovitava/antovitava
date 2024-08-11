@@ -2,7 +2,7 @@
 
 meu nome é cevita
 
-- estou estudando [Alura](htps://www.alura.com.br) 
+- estou estudando [Alura] (htps://www.alura.com.br) 
 - estou me desenvolvendo na linguagens JavaScript
 - utilizo este espaço para minha organização dos meus projetos desenvolvidos
 

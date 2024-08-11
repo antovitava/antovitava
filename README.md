@@ -1,16 +1,17 @@
-## Hi there 👋
+### boas vindos ao meu perfil 🗣️
 
-<!--
-**antovitava/antovitava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é cevita
 
-Here are some ideas to get you started:
+- estou estudando [Alura](htps://www.alura.com.br) 
+- estou me desenvolvendo na linguagens JavaScript
+- utilizo este espaço para minha organização dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### vc pode entrar em contato comigo 📫
+
+  cevitanova@prof.educacao.sp.gov.br
+
+  
+     ![](https://media1.tenor.com/m/QCZVRurZoKsAAAAC/feliz-noche.gif)
+  
+
+
